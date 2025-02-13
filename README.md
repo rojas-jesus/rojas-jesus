@@ -72,4 +72,12 @@ You can click the Preview link to take a look at your changes.
 ![Jinja Badge](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=fff&style=flat-square)
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square)
 ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat-square)
+![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat-square)
+![Make Badge](https://img.shields.io/badge/Make-6D00CC?logo=make&logoColor=fff&style=flat-square)
+![Zapier Badge](https://img.shields.io/badge/Zapier-FF4F00?logo=zapier&logoColor=fff&style=flat-square)
+
+
+
+
+
 
